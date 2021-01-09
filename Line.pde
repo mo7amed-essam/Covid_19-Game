@@ -1,5 +1,4 @@
 // line is a class used to define a line using  start_point(x,y) and end_point(px,py)   
-
 class Line {
   float x;
   float y;
